@@ -11,7 +11,7 @@
 ####  (Users can hook system calls, intercept API functions, or modify a program, can be used for debugging, reverse engineering, or patching running software without restarting it.)
 
 ### - Steal or Manipulate Data
-
+####  (Injected code can read sensitive information.)
 
 ### - Bypass Security
-  
+####  (Run code under trusted processes, for example system or browser processes, evading detection by blending in with legitimate activity.)  
