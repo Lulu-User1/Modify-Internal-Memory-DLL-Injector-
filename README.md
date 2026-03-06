@@ -5,10 +5,10 @@
 ## This DLL Injector Allows User To:
 
 ### - Execute Custom Code
-###  (gains full access to the target process’s memory, resources, and security context, allowing it to execute functions, manipulate data, or alter behavior.)      
+####  (gains full access to the target process’s memory, resources, and security context, allowing it to execute functions, manipulate data, or alter behavior.)      
   
 ### - Modify Behavior
-###   (Users can hook system calls, intercept API functions, or modify a program, can be used for debugging, reverse engineering, or hot patching running software without restarting it.)
+####   (Users can hook system calls, intercept API functions, or modify a program, can be used for debugging, reverse engineering, or hot patching running software without restarting it.)
 
 ### - Steal or Manipulate Data
 
